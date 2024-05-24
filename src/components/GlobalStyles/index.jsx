@@ -19,5 +19,6 @@ export const GlobalStyle = createGlobalStyle`
       display: flex;
       flex-direction: column;
       gap: 16px;
+      padding: 0;
     }
 `
